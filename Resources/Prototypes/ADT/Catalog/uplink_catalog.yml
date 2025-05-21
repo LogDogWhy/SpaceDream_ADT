@@ -634,6 +634,7 @@
     Telecrystal: 10
   categories:
     - UplinkWearables
+    - UplinkContractor
   conditions:
   - !type:StoreWhitelistCondition
     blacklist:
@@ -649,6 +650,7 @@
     Telecrystal: 5
   categories:
     - UplinkWearables
+    - UplinkContractor
 
 - type: listing
   id: ADTUplinkThermalVision
